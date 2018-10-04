@@ -1,0 +1,60 @@
+
+
+~~~Menu~~~
+1:Create DLL of Employee Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:InsertAtFront
+6:DeleteAtFront
+7:Double Ended Queue Demo using DLL
+8:Exit 
+
+Please enter your choice: 1
+
+Enter the no of Employees:   2
+
+Enter the ssn,Name,Department,Designation,Salary,PhoneNo of the employee: 
+1
+Naman
+CSE
+Dr
+100000
+9595959545
+
+Enter the ssn,Name,Department,Designation,Salary,PhoneNo of the employee: 
+2
+Mohit
+MAE
+Mr
+10000
+9898989812
+
+
+~~~Menu~~~
+1:Create DLL of Employee Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:InsertAtFront
+6:DeleteAtFront
+7:Double Ended Queue Demo using DLL
+8:Exit 
+
+Please enter your choice: 2
+
+ENode:1||SSN:1|Name:Naman|Department:CSE|Designation:Dr|Salary:100000|Phone no:9595959545
+ENode:2||SSN:2|Name:Mohit|Department:MAE|Designation:Mr|Salary:10000|Phone no:9898989812
+No of employee nodes is 2
+
+~~~Menu~~~
+1:Create DLL of Employee Nodes
+2:DisplayStatus
+3:InsertAtEnd
+4:DeleteAtEnd
+5:InsertAtFront
+6:DeleteAtFront
+7:Double Ended Queue Demo using DLL
+8:Exit 
+
+Please enter your choice: 
