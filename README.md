@@ -1,7 +1,7 @@
 # CollegeCodesinC
 Data Structure Codes in C
 
-# Most of the experiments are in exp folder.
+# Most of the experiments are in exps folder.
 
 ## DLL - Doubly Linked List
 
