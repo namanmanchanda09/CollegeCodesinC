@@ -7,3 +7,5 @@ Data Structure Codes in C
 
 ## CLL - Circular Linked List
 
+### Output folder consists of SciLab Outputs
+
